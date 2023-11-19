@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ikiv1601.wearfeed",
+    "sha256_cert_fingerprints":
+    ["EC:CC:DD:16:F1:46:D0:3D:28:E2:4A:09:01:BF:70:52:B8:BA:22:E1:10:BA:CF:BC:76:28:A1:3A:DF:A6:98:F6"]
+  }
+}]
