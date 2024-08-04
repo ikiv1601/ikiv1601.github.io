@@ -2,4 +2,9 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "com.ikiv1601.wearfeed",
                "sha256_cert_fingerprints": ["11:BF:88:A1:42:4F:EC:66:00:97:31:26:A9:87:C0:8D:54:50:94:C9:25:8F:CF:56:BA:19:5B:0F:E8:A7:8C:0D"] }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": { "namespace": "android_app", "package_name": "com.ikiv1601.wearfeed",
+              "sha256_cert_fingerprints": ["EC:CC:DD:16:F1:46:D0:3D:28:E2:4A:09:01:BF:70:52:B8:BA:22:E1:10:BA:CF:BC:76:28:A1:3A:DF:A6:98:F6"] }
 }]
